@@ -4,4 +4,4 @@
 
 源码地址：https://github.com/Heriec/suda-yjs-shedule
 
-开发文档：https://open-schedule-prod.ai.xiaomi.com/docs
+开发文档：https://open-schedule-prod.ai.xiaomi.com/docs/#/help/
